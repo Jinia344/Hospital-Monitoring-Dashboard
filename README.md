@@ -42,10 +42,12 @@ Power BI dashboard analyzing six years of hospital data (2019–2024). Tracks pa
 ## 📸 Dashboard Preview
 
 
-👉<img width="865" height="492" alt="Screenshot 2025-08-24 140111" src="https://github.com/user-attachments/assets/3c1284c3-9a38-40ef-9afd-2df5fd6c4f8c" />
-<img width="868" height="480" alt="Screenshot 2025-08-24 140041" src="https://github.com/user-attachments/assets/5a031d61-a8c8-4aa7-92bd-54271aa8fedd" />
-<img width="864" height="488" alt="Screenshot 2025-08-24 135958" src="https://github.com/user-attachments/assets/22d7fa80-91f3-4f53-a89a-2151a81880a5" />
+👉
 <img width="859" height="484" alt="Screenshot 2025-08-24 135854" src="https://github.com/user-attachments/assets/2e9f1fce-b8b5-4b2b-875f-a6f45e4bf09f" />
+ <img width="864" height="488" alt="Screenshot 2025-08-24 135958" src="https://github.com/user-attachments/assets/22d7fa80-91f3-4f53-a89a-2151a81880a5" />
+<img width="868" height="480" alt="Screenshot 2025-08-24 140041" src="https://github.com/user-attachments/assets/5a031d61-a8c8-4aa7-92bd-54271aa8fedd" />
+<img width="865" height="492" alt="Screenshot 2025-08-24 140111" src="https://github.com/user-attachments/assets/3c1284c3-9a38-40ef-9afd-2df5fd6c4f8c" />
+
  
  View the full interactive dashboard here: 
 https://lnkd.in/gEqsZ4Ts
